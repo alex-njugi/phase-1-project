@@ -1,9 +1,41 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "fugitives": [
+      {
+        "id": 1,
+        "name": "PANEK DANIEL TOMASZ",
+        "image": "images/daniel.png",
+        "description": "Wanted for armed robbery."
+      },
+      {
+        "id": 2,
+        "name": "LAVRIC JANKO",
+        "image": "images/janko.png",
+        "description": "Crime : Unlawfull abductions."
+      },
+      {
+        "id": 3,
+        "name": "KANYS, RENALDAS",
+        "image": "images/kanys.png",
+        "description": "Crime : Murder, grievous bodily injury."
+      },
+      {
+        "id": 4,
+        "name": "OUALI KARIM",
+        "image": "images/karim.png",
+        "description": "Crime : Suspected in multiple fraud cases."
+      },
+      {
+        "id": 5,
+        "name": "ANDRIJA NIKOLIC",
+        "image": "images/nikolic.png",
+        "description": "Crime : Illicit trafficking in narcotic drugs."
+      },
+      {
+        "id": 6,
+        "name": "OKOLICANY ROBERT",
+        "image": "images/robert.png",
+        "description": "crime : Escaped convict, considered dangerous."
+      }
+    ]
+  }
+  
